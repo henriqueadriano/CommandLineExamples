@@ -1,3 +1,7 @@
+/*
+ * C# Program to Check whether the Entered Number is Even or Odd
+ */
+
 class Program
     {
         static void Main(string[] args)
